@@ -1,2 +1,2 @@
-this is demo for git & github
-this update
+this is demo for git & github.
+this update.
